@@ -30,7 +30,7 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 --->
-  <a href="https://www.linkedin.com/in/johanna-monta%C3%B1o-7565a1186/" target="_blank"><img src="" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/johanna-monta%C3%B1o-7565a1186/" target="_blank"> <center><img src="https://github.com/PatricaMontano/imagenes/blob/main/T01AS6B799Q-U02AU9PPKFH-455e20ef9012-512.jpg?raw=true" target="_blank">< /center></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
